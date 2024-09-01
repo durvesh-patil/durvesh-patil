@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Durvesh Patil</h1>
 <h3 align="center">Full stack developer with keen instrest in web3 and blockchain ⭐</h3>
 
-- 🔭 I’m currently working on [Stockify](https://github.com/durvesh-patil)
+- 🔭 I’m currently working on [Stockify](https://github.com/durvesh-patil/Stockify)
 
 - 🌱 I’m currently learning **AWS cloud services**
 
